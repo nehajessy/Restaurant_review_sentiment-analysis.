@@ -1,4 +1,4 @@
-### Project Overview: Sentiment Analysis on Restaurant Reviews
+### Sentiment Analysis on Restaurant Reviews
 
 This project implements a **Sentiment Analysis** model to classify restaurant reviews as either positive or negative. The dataset consists of 1,000 reviews, with corresponding sentiment labels. The project involves preprocessing text data, creating a Bag-of-Words model for feature extraction, and training a machine learning model to predict sentiments.
 
